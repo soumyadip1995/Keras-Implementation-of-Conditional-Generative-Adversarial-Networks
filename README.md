@@ -28,3 +28,12 @@ At the end of the run, the model is saved to the file with name ‘cgan_generato
 ```
 !python generating_images.py
 ``` 
+My result from the generating_images.py code:-
+
+![alt_text](https://github.com/soumyadip1995/Keras-Implementation-of-Conditional-Generative-Adversarial-Networks/blob/master/results/download%20(1).png)
+
+My result after creating a video from the resultant output of the cgan_keras.py code:-
+
+![alt_text](https://github.com/soumyadip1995/Keras-Implementation-of-Conditional-Generative-Adversarial-Networks/blob/master/results/video.gif)
+
+
