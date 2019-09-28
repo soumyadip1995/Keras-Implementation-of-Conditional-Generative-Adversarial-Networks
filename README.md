@@ -32,6 +32,17 @@ My result from the generating_images.py code:-
 
 ![alt_text](https://github.com/soumyadip1995/Keras-Implementation-of-Conditional-Generative-Adversarial-Networks/blob/master/results/download%20(1).png)
 
+To run the Conditional GAN on the MNIST digit dataset.
+
+```
+!git clone https://github.com/soumyadip1995/Keras-Implementation-of-Conditional-Generative-Adversarial-Networks.git
+%cd Keras-Implementation-of-Conditional-Generative-Adversarial-Networks/keras_cgan/
+!python cgan_keras.py
+``` 
+To create the video from the images execute
+```
+!python video_cgan.py
+``` 
 My result after creating a video from the resultant output of the cgan_keras.py code:-
 
 ![alt_text](https://github.com/soumyadip1995/Keras-Implementation-of-Conditional-Generative-Adversarial-Networks/blob/master/results/video.gif)
