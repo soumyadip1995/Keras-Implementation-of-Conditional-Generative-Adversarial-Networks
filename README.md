@@ -1,7 +1,7 @@
 ## Keras-Implementation-of-Conditional-Generative-Adversarial-Networks
 
 Conditional GANs (CGANs): The Generator and Discriminator both receive some additional conditioning input information. This could be the class of the current image or some other property.
-
+- Read my blog post [here](https://soumyadip1995.blogspot.com/2019/09/conditional-generative-adversarial.html)
 ### Credits
 The credits for this repository goes to [this](https://github.com/eriklindernoren/Keras-GAN) repo. They have done a wonderful job in implementing cgans as well as image to image translation. Credits go to Jason Brownlee from Machine Learning Mastery.
 
